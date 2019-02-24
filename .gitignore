@@ -3,3 +3,7 @@
 ################################################################################
 
 /src/.vs/AWA.Util
+/src/AWA.Util/bin/Debug
+/src/AWA.Util/obj
+/src/AWA.Util.WebBase/bin/Debug/netstandard2.0
+/src/AWA.Util.WebBase/obj

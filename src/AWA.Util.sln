@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWA.Util", "AWA.Util\AWA.Util.csproj", "{C0B20927-CF7C-494A-8412-519D0B8E1FC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWA.Util.WebBase", "AWA.Util.WebBase\AWA.Util.WebBase.csproj", "{1E0D6DBB-D63B-4D3F-B93C-FDAB02B52416}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0B20927-CF7C-494A-8412-519D0B8E1FC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0B20927-CF7C-494A-8412-519D0B8E1FC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0B20927-CF7C-494A-8412-519D0B8E1FC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0B20927-CF7C-494A-8412-519D0B8E1FC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E0D6DBB-D63B-4D3F-B93C-FDAB02B52416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E0D6DBB-D63B-4D3F-B93C-FDAB02B52416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E0D6DBB-D63B-4D3F-B93C-FDAB02B52416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E0D6DBB-D63B-4D3F-B93C-FDAB02B52416}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3644FFD-7CC4-4044-BC32-4C0C878074C1}
+	EndGlobalSection
+EndGlobal
