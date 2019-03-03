@@ -12,5 +12,5 @@
 **4.ORM项目开启**
 
 ---
-PS:Authentication.Weixin、RabbitMQ、EF Core、MongoDB、WebBase、Quartz.Net、IdentityServer、Gateway
+PS:Authentication.Weixin、RabbitMQ、EF Core、MongoDB、WebBase、Quartz.Net、IdentityServer封装包及IdentityServer4.Admin、Gateway、CMS、RPC、微信公众号
 暂时备注，部分将会在其他项目实现
