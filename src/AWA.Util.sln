@@ -3,14 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWA.Util", "AWA.Util\AWA.Util.csproj", "{C0B20927-CF7C-494A-8412-519D0B8E1FC9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWA.Util", "AWA.Util\AWA.Util.csproj", "{C0B20927-CF7C-494A-8412-519D0B8E1FC9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWA.Util.WebBase", "AWA.Util.WebBase\AWA.Util.WebBase.csproj", "{1E0D6DBB-D63B-4D3F-B93C-FDAB02B52416}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWA.Util.WebBase", "AWA.Util.WebBase\AWA.Util.WebBase.csproj", "{1E0D6DBB-D63B-4D3F-B93C-FDAB02B52416}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "build", "build", "{DD7BE769-D4C1-4EC4-8031-B1E3C8A4083B}"
 	ProjectSection(SolutionItems) = preProject
 		todo.txt = todo.txt
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWA.Util.Area", "AWA.Util.Area\AWA.Util.Area.csproj", "{AF87F2EA-18BD-41F3-9EB9-1CF14AC1655F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +28,10 @@ Global
 		{1E0D6DBB-D63B-4D3F-B93C-FDAB02B52416}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E0D6DBB-D63B-4D3F-B93C-FDAB02B52416}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E0D6DBB-D63B-4D3F-B93C-FDAB02B52416}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF87F2EA-18BD-41F3-9EB9-1CF14AC1655F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF87F2EA-18BD-41F3-9EB9-1CF14AC1655F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF87F2EA-18BD-41F3-9EB9-1CF14AC1655F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF87F2EA-18BD-41F3-9EB9-1CF14AC1655F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
