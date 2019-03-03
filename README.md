@@ -3,7 +3,9 @@
 
 
 # Todo:
-1.Redis封闭包<br/>
+**1.Redis封闭包:**<br/>
+- StackExchange.Redis
+- CSRedis
 ~~2.省市区包~~<br/>
-3.分页实体完善<br/>
-4.ORM项目开启
+**3.分页实体完善**<br/>
+**4.ORM项目开启**
