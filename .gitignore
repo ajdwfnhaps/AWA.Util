@@ -9,3 +9,5 @@
 /src/AWA.Util.WebBase/obj
 /src/AWA.Util.Area/bin/Debug/netstandard2.0
 /src/AWA.Util.Area/obj
+/src/AWA.Util.CSRedis/bin/Debug/netstandard2.0
+/src/AWA.Util.CSRedis/obj

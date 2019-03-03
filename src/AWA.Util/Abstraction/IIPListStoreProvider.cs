@@ -1,7 +1,7 @@
 ﻿using AWA.Util.Enums;
 using System.Collections.Generic;
 
-namespace AWA.Util.Abstract
+namespace AWA.Util.Abstraction
 {
     /// <summary>
     /// IP名单存储提供者

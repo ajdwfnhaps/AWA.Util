@@ -1,7 +1,6 @@
-﻿using AWA.Util.Abstract;
+﻿using AWA.Util.Abstraction;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
-using System;
 
 namespace AWA.Util.WebBase.Middleware
 {

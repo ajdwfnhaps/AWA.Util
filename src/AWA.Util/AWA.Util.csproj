@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Abstract\" />
+    <Folder Include="Abstraction\" />
     <Folder Include="Enums\" />
   </ItemGroup>
 
