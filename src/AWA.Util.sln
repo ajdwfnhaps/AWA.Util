@@ -12,9 +12,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "build", "build", "{DD7BE769
 		todo.txt = todo.txt
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWA.Util.Area", "AWA.Util.Area\AWA.Util.Area.csproj", "{AF87F2EA-18BD-41F3-9EB9-1CF14AC1655F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWA.Util.Area", "AWA.Util.Area\AWA.Util.Area.csproj", "{AF87F2EA-18BD-41F3-9EB9-1CF14AC1655F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWA.Util.CSRedis", "AWA.Util.CSRedis\AWA.Util.CSRedis.csproj", "{43ADD8CB-5B17-4FC4-B6DC-136863A6C1ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWA.Util.CSRedis", "AWA.Util.CSRedis\AWA.Util.CSRedis.csproj", "{43ADD8CB-5B17-4FC4-B6DC-136863A6C1ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AAM.Util.OAuth", "AAM.Util.OAuth\AAM.Util.OAuth.csproj", "{9C9F4E0A-526A-4719-83AB-7263FA8573BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -38,6 +40,10 @@ Global
 		{43ADD8CB-5B17-4FC4-B6DC-136863A6C1ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43ADD8CB-5B17-4FC4-B6DC-136863A6C1ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43ADD8CB-5B17-4FC4-B6DC-136863A6C1ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C9F4E0A-526A-4719-83AB-7263FA8573BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C9F4E0A-526A-4719-83AB-7263FA8573BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C9F4E0A-526A-4719-83AB-7263FA8573BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C9F4E0A-526A-4719-83AB-7263FA8573BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

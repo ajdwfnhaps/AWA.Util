@@ -11,3 +11,5 @@
 /src/AWA.Util.Area/obj
 /src/AWA.Util.CSRedis/bin/Debug/netstandard2.0
 /src/AWA.Util.CSRedis/obj
+/src/AAM.Util.OAuth/bin/Debug/netstandard2.0
+/src/AAM.Util.OAuth/obj
