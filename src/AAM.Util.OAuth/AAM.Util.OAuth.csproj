@@ -6,6 +6,8 @@
 
   <ItemGroup>
     <Folder Include="Weixin\" />
+    <Folder Include="QQ\" />
+    <Folder Include="Weibo\" />
   </ItemGroup>
 
   <ItemGroup>
