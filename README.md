@@ -3,7 +3,7 @@
 
 
 # Todo:
-**1.Redis封闭包:**<br/>
+**1.Redis封装包:**<br/>
 - StackExchange.Redis
 - *CSRedis*
 ---
